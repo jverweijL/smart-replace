@@ -1,0 +1,5 @@
+Bundle-Name: smart-replace
+Bundle-SymbolicName: smart.replace
+Bundle-Version: 1.0.0
+Export-Package:\
+	smart.replace.context.contributor\
